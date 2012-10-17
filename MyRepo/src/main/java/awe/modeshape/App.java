@@ -12,7 +12,8 @@ import javax.jcr.RepositoryException;
 
 
 /**
- * Hello world!
+ * Modeshape "Hello world!"
+ * Class used as testbed for Modeshape.
  *
  */
 public class App {
@@ -38,6 +39,8 @@ public class App {
 	}
 
 
+	/** Deploy a repository and run some operations.
+	*/
     public static void main( String[] args ) {
     
         System.out.println("Starting ModeShapeEngine");
