@@ -1,2 +1,2 @@
-# Modeshape test
-## My first test with Modeshape
+# Modeshape playground
+### Some code to test Modeshape
